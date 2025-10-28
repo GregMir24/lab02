@@ -1,0 +1,81 @@
+Riolu  from the team Yellow enters the battle!
+Litwick  from the team Purple enters the battle!
+Riolu  misses
+
+Litwick  совершил WillOWisp. 
+Riolu  is burned
+
+Riolu  loses 1 hit points.
+Riolu  совершил ShadowClaw. 
+Litwick  loses 7 hit points.
+
+Litwick  совершил WillOWisp. 
+
+Riolu  loses 1 hit points.
+Riolu  misses
+
+Litwick  misses
+
+Riolu  loses 1 hit points.
+Riolu  misses
+
+Litwick  совершил WillOWisp. 
+
+Riolu  loses 1 hit points.
+Riolu  совершил ShadowClaw. 
+Litwick  loses 7 hit points.
+Litwick  faints.
+Lucario  from the team Purple enters the battle!
+Lucario  misses
+
+Riolu  совершил ShadowClaw. 
+Lucario  loses 4 hit points.
+
+Riolu  loses 1 hit points.
+Lucario  struggles. 
+Riolu  loses 6 hit points.
+Lucario  loses 2 hit points.
+
+Riolu  совершил ShadowClaw. 
+Lucario  loses 5 hit points.
+
+Riolu  loses 1 hit points.
+Lampent  from the team Yellow enters the battle!
+Lucario  struggles. 
+Lampent  loses 5 hit points.
+Lucario  loses 1 hit points.
+
+Lampent  совершил NightShade. 
+Lucario  loses 6 hit points.
+Lucario  faints.
+Chandelure  from the team Purple enters the battle!
+Chandelure  совершил NightShade. 
+Lampent  loses 16 hit points.
+Lampent  faints.
+Kangaskhan  from the team Yellow enters the battle!
+Kangaskhan  совершил AerialAce. 
+Chandelure  loses 6 hit points.
+
+Chandelure  misses
+
+Kangaskhan  совершил Facade. 
+Chandelure  loses 1 hit points.
+Chandelure  isn't affected by NORMAL
+
+Chandelure  совершил WillOWisp. 
+Kangaskhan  is burned
+
+Kangaskhan  loses 1 hit points.
+Kangaskhan  совершил AerialAce. 
+Chandelure  loses 4 hit points.
+
+Chandelure  совершил NightShade. 
+Kangaskhan  loses 1 hit points.
+Kangaskhan  isn't affected by GHOST
+
+Kangaskhan  loses 1 hit points.
+Kangaskhan  совершил AerialAce. 
+Chandelure  loses 3 hit points.
+Chandelure  faints.
+Team Purple loses its last Pokemon.
+The team Yellow wins the battle!
